@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(204, 197, 197);
+}
+
+h1 {
+    background-color: rgb(54, 47, 66);
+    padding:20px; 
+    text-align: center;
+    width: 90%;
+        color:honeydew;
+        margin: 0;
+}
+
+.conteiner {
+    
+    width: 93%;
+    display: flex;
+    flex-wrap: wrap; 
+    height: 200px;
+    
+              
+         }
+.box{
+              
+              flex-basis: 200px; 
+              flex-grow: 1;
+              margin: 0px;
+          }
+.box-1-1{
+        
+        background-color: rgb(133, 38, 228);
+        
+           } 
+
+.box-1-2{
+            
+            background-color: rgb(235, 99, 106);
+            
+}
+.box-1-3{
+                 
+                background-color: rgb(228, 152, 38);
+                
+                   } 
+.box-1-4{
+                    
+                    background-color: rgb(226, 220, 231);
+                    
+                       } 
+
+.box-2-1{
+        
+                        background-color: rgb(133, 38, 228);
+                        
+                           } 
+                
+.box-2-2{
+                            
+                            background-color: rgb(235, 99, 106);
+                            
+                               } 
+.box-2-3{
+                                background-color: rgb(228, 152, 38);
+                                
+                            } 
+                                 
+                                
